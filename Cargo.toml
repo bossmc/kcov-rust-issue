@@ -1,0 +1,6 @@
+[package]
+name = "kcov-foo"
+version = "0.1.0"
+authors = ["Andy Caldwell <andrew.caldwell@metaswitch.com>"]
+
+[dependencies]
